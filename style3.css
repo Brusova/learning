@@ -1,0 +1,47 @@
+*{
+	text-decoration: none;
+}
+
+html{
+		background-color: green;
+}
+#header{color: white;
+
+}
+
+ #header-1{color: yellow;
+
+}
+.style{color: red;
+}
+p.style{background-color: white
+}
+p i{color: green; 
+}
+
+p.example, b {
+	font-size: 40px;
+	font-weight: lighter;  
+}
+p#example:first-letter{
+	color: yellow;
+
+}
+p#example:first-line{
+	color: blue;
+
+
+.href{
+	color: blue; 
+	
+}
+.href: hоver {
+	color: white ; 
+	
+}
+
+p: hover{
+ background-color red
+}
+
+
